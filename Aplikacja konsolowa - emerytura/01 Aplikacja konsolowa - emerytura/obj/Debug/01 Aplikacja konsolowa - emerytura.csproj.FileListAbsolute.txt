@@ -1,0 +1,1 @@
+c:\users\karol bronowski\documents\visual studio 2015\Projects\01 Aplikacja konsolowa - emerytura\01 Aplikacja konsolowa - emerytura\bin\Debug\01 Aplikacja konsolowa - emerytura.exe.config
